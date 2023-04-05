@@ -1,0 +1,11 @@
+.background{
+    background-color: #F7F8FA;
+    height: 440px;
+    margin-bottom: 258px;
+}
+@media  (max-width: 1200px){
+    .background{
+        height: 1500px;
+        margin-bottom: 158px;
+    }
+}
